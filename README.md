@@ -96,3 +96,4 @@ action! You'll also need to make sure the form includes the hidden input tag to
 change the request from `post` to `delete`.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-ar-crud-lab'>Sinatra ActiveRecord CRUD</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Sinatra ActiveRecord CRUD</p>
