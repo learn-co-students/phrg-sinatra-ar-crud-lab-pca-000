@@ -1,0 +1,7 @@
+<h1>Welcome</h1><br><br>
+<h3>Here are your posts:</h3><br>
+
+<% @posts.each do |post| %>
+<h4><%= post.name %></h4>
+<h5><%= post.content %></h5><br>
+<% end %>
